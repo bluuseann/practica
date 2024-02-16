@@ -13,3 +13,4 @@ D:\Panika\practica\obj\Debug\practica.csproj.GenerateResource.cache
 D:\Panika\practica\obj\Debug\practica.csproj.CoreCompileInputs.cache
 D:\Panika\practica\obj\Debug\practica.exe
 D:\Panika\practica\obj\Debug\practica.pdb
+D:\Panika\practica\obj\Debug\App.baml
