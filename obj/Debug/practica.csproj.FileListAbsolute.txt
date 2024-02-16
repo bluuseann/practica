@@ -1,0 +1,15 @@
+D:\Panika\practica\bin\Debug\practica.exe.config
+D:\Panika\practica\bin\Debug\practica.exe
+D:\Panika\practica\bin\Debug\practica.pdb
+D:\Panika\practica\obj\Debug\practica.csproj.AssemblyReference.cache
+D:\Panika\practica\obj\Debug\MainWindow.g.cs
+D:\Panika\practica\obj\Debug\App.g.cs
+D:\Panika\practica\obj\Debug\practica_MarkupCompile.cache
+D:\Panika\practica\obj\Debug\practica_MarkupCompile.lref
+D:\Panika\practica\obj\Debug\MainWindow.baml
+D:\Panika\practica\obj\Debug\practica.g.resources
+D:\Panika\practica\obj\Debug\practica.Properties.Resources.resources
+D:\Panika\practica\obj\Debug\practica.csproj.GenerateResource.cache
+D:\Panika\practica\obj\Debug\practica.csproj.CoreCompileInputs.cache
+D:\Panika\practica\obj\Debug\practica.exe
+D:\Panika\practica\obj\Debug\practica.pdb
